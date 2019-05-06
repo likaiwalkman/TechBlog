@@ -37,10 +37,9 @@ public class App {
         javaMailSender.send(mimeMessage);
     }
 }
-
+```
 ### Spring boot配置
 ```
-#Mail
 spring.mail.host=smtp.163.com
 spring.mail.username=abc@163.com
 spring.mail.password=abc
