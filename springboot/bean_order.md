@@ -27,5 +27,7 @@ if(bean instanceof TestDo){
 
 exexute result:
 a
+<br>
 b
+<br>
 c
