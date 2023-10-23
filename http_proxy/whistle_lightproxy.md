@@ -7,4 +7,6 @@
 */ reqHeaders://{"x-header-1":"123"}
 ```
 ---
-参考文档链接: http://wproxy.org/whistle/principle.html
+参考文档链接: 
+- http://wproxy.org/whistle/principle.html
+- https://github.com/avwo/whistle/tree/master/docs
